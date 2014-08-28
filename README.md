@@ -19,3 +19,9 @@ Emil
 + email: emil.schroeder@gmail.com
 + facebook: N/A
 + calendar: http://ntnu.1024.no/2014/host/emiljako/
+
+Anders
+---
++ gmail: asmedegaardp@gmail.com
++ stud mail: andespe@stud.ntnu.no
++ calendar: http://ntnu.1024.no/2014/fall/andespe2014/
