@@ -1,4 +1,8 @@
-CONTACT
-=======
+Contact Information
+===================
 
-Contact information, lol
+
+Arve
+----
+email: mail@arve.in
+facebook: the.arve
