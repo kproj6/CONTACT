@@ -25,3 +25,11 @@ Anders
 + gmail: asmedegaardp@gmail.com
 + stud mail: andespe@stud.ntnu.no
 + calendar: http://ntnu.1024.no/2014/fall/andespe2014/
+
+Ruben
+---
++ gmail: fagerli_ruben@hotmail.com
++ stud mail: rubenhas@stud.ntnu.no
++ facebook: ruben.fagerli
++ calendar: http://ntnu.1024.no/2014/host/rubenhas/
+
