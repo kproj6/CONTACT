@@ -33,3 +33,9 @@ Ruben
 + facebook: ruben.fagerli
 + calendar: http://ntnu.1024.no/2014/host/rubenhas/
 
+Ondra
+---
++ gmail: hujnak.ondrej@gmail.com
++ stud mail: ondrejh@stud.ntnu.no
++ facebook: hujnak.ondrej
++ calendar: http://ntnu.1024.no/2014/fall/hujon/
