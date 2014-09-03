@@ -41,3 +41,11 @@ Ondra
 + stud mail: ondrejh@stud.ntnu.no
 + facebook: hujnak.ondrej
 + calendar: http://ntnu.1024.no/2014/fall/hujon/
+
+Marco
+---
++ gmail: marco.radavelli@gmail.com
++ stud mail: marcora@stud.ntnu.no
++ phone: 94430361
++ facebook: marco.radavelli
++ calendar: http://ntnu.1024.no/2014/fall/marcor92/
