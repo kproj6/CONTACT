@@ -17,6 +17,8 @@ Hans Kristian
 Emil
 ----
 + email: emil.schroeder@gmail.com
++ studmail: emiljako@stud.ntnu.no
++ phone: 415 88 319
 + facebook: N/A
 + calendar: http://ntnu.1024.no/2014/host/emiljako/
 
