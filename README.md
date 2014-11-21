@@ -31,12 +31,7 @@ Anders
 
 Ruben
 ---
-+ mail: fagerli_ruben@hotmail.com
-+ stud mail: rubenhas@stud.ntnu.no
-+ gmail: rufagerli@gmail.com
-+ phone: 93872539
-+ facebook: ruben.fagerli
-+ calendar: http://ntnu.1024.no/2014/host/rubenhas/
++ stud mail: rubenhas ata stud.ntnu.no
 
 Ondra
 ---
